@@ -1,5 +1,5 @@
 # Real-time Bus Tracker
-Practice using Javascript to access a bus route in real-time. 
+The purpose of this exersie is to practice using async/await Javascript code to access a bus route in real-time. The real=time postiion of a particular bus is plotted on the map when the button is clicked, and the location is refreshed every 15 seconds.
 
 ## How to Run: 
 Obtain an access token [from mapbox](https://account.mapbox.com/) by creating an account, then enter it in line 5 of mapanimation.js (it is commented where this goes), save and open index.html in your browser.
