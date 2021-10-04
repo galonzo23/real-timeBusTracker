@@ -1,7 +1,7 @@
 # Real-time Bus Tracker
 Practice using Javascript to access a bus route in real-time. 
 
-How to Run: Obtain an access token [from mapbox](https://account.mapbox.com/) by creating an account, then enter it in line 5 of mapanimation.js (it is commented where this goes), save and open index.html in your browser.
+How to Run: Obtain an access token [from mapbox](https://account.mapbox.com/) by creating an account, then enter it in line 5 of mapanimation.js (it is commented where this goes), save and open real-timeBusTracker.html in your browser.
 
 Future improvements: will try implementing other APIs for other cities and transit routes, add some sort of countdown before refresh.
 
